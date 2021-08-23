@@ -23,6 +23,7 @@
 # Grok 
 
 1. [Grok - 2. Pattern: Sliding Window](https://github.com/wuhuachuan712/DS-Algorithm/issues/129)
+2. [Grok - 3. Pattern: Two Pointers](https://github.com/wuhuachuan712/DS-Algorithm/issues/130)
 
 # 其他总结
 
