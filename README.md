@@ -20,6 +20,10 @@
     2. [0-1背包问题(O(C)空间复杂度优化)](https://github.com/wuhuachuan712/DS-Algorithm/issues/126)
 6. [KMP算法](https://github.com/wuhuachuan712/DS-Algorithm/issues/127)
 
+# Grok 
+
+1. [Grok - 2. Pattern: Sliding Window](https://github.com/wuhuachuan712/DS-Algorithm/issues/129)
+
 # 其他总结
 
 1. [极客时间《数据结构与算法之美-王争》总结1](https://github.com/wuhuachuan712/DS-Algorithm/issues/128)
