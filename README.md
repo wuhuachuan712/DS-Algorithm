@@ -25,6 +25,7 @@
 1. [Grok - 2. Pattern: Sliding Window](https://github.com/wuhuachuan712/DS-Algorithm/issues/129)
 2. [Grok - 3. Pattern: Two Pointers](https://github.com/wuhuachuan712/DS-Algorithm/issues/130)
 3. [Grok - 4. Pattern: Fast & Slow pointers](https://github.com/wuhuachuan712/DS-Algorithm/issues/131)
+4. [[重点]Grok - 5. Pattern: Merge Intervals](https://github.com/wuhuachuan712/DS-Algorithm/issues/132)
 
 # 其他总结
 
