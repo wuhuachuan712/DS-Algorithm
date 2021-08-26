@@ -28,6 +28,7 @@
 4. [[重点]Grok - 5. Pattern: Merge Intervals](https://github.com/wuhuachuan712/DS-Algorithm/issues/132)
 5. [Grok - 6. Pattern: Cyclic Sort（Swap 大法）](https://github.com/wuhuachuan712/DS-Algorithm/issues/133)
 6. [Grok - 7. Pattern: In-place Reversal of a LinkedList](https://github.com/wuhuachuan712/DS-Algorithm/issues/134)
+7. [Grok - 8. Pattern: Tree Breadth First Search](https://github.com/wuhuachuan712/DS-Algorithm/issues/135)
 
 # 其他总结
 
