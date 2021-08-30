@@ -34,6 +34,7 @@
 10. [[重点:复杂度的分析]Grok - 11. Pattern: Subsets](https://github.com/wuhuachuan712/DS-Algorithm/issues/138)
 11. [Grok - 12. Pattern: Modified Binary Search](https://github.com/wuhuachuan712/DS-Algorithm/issues/139)
 12. [Grok - 13. Pattern: Bitwise XOR](https://github.com/wuhuachuan712/DS-Algorithm/issues/140)
+13. [Grok - [重点]14. Pattern: Top 'K' Elements](https://github.com/wuhuachuan712/DS-Algorithm/issues/141)
 
 # 其他总结
 
