@@ -33,6 +33,7 @@
 9. [[重点]Grok - 10. Pattern: Two Heaps](https://github.com/wuhuachuan712/DS-Algorithm/issues/137)
 10. [[重点:复杂度的分析]Grok - 11. Pattern: Subsets](https://github.com/wuhuachuan712/DS-Algorithm/issues/138)
 11. [Grok - 12. Pattern: Modified Binary Search](https://github.com/wuhuachuan712/DS-Algorithm/issues/139)
+12. [Grok - 13. Pattern: Bitwise XOR](https://github.com/wuhuachuan712/DS-Algorithm/issues/140)
 
 # 其他总结
 
