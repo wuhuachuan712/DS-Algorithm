@@ -35,6 +35,7 @@
 11. [Grok - 12. Pattern: Modified Binary Search](https://github.com/wuhuachuan712/DS-Algorithm/issues/139)
 12. [Grok - 13. Pattern: Bitwise XOR](https://github.com/wuhuachuan712/DS-Algorithm/issues/140)
 13. [Grok - [重点]14. Pattern: Top 'K' Elements](https://github.com/wuhuachuan712/DS-Algorithm/issues/141)
+14. [Grok - 15. Pattern: K-way merge](https://github.com/wuhuachuan712/DS-Algorithm/issues/142)
 
 # 其他总结
 
