@@ -36,6 +36,7 @@
 12. [Grok - 13. Pattern: Bitwise XOR](https://github.com/wuhuachuan712/DS-Algorithm/issues/140)
 13. [Grok - [重点]14. Pattern: Top 'K' Elements](https://github.com/wuhuachuan712/DS-Algorithm/issues/141)
 14. [Grok - 15. Pattern: K-way merge](https://github.com/wuhuachuan712/DS-Algorithm/issues/142)
+15. [Grok - [重点-有时间可以当做兴趣深入看一下]16. Pattern : 0/1 Knapsack (Dynamic Programming)](https://github.com/wuhuachuan712/DS-Algorithm/issues/143)
 
 # 其他总结
 
