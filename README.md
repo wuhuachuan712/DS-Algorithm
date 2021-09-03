@@ -22,13 +22,13 @@
 
 # Grok 
 
-1. [Grok - 2. Pattern: Sliding Window](https://github.com/wuhuachuan712/DS-Algorithm/issues/129)
+1. [Grok - 2. Pattern: Sliding Window(连续子数组)](https://github.com/wuhuachuan712/DS-Algorithm/issues/129)
 2. [Grok - 3. Pattern: Two Pointers](https://github.com/wuhuachuan712/DS-Algorithm/issues/130)
 3. [Grok - 4. Pattern: Fast & Slow pointers](https://github.com/wuhuachuan712/DS-Algorithm/issues/131)
 4. [[重点]Grok - 5. Pattern: Merge Intervals](https://github.com/wuhuachuan712/DS-Algorithm/issues/132)
 5. [Grok - 6. Pattern: Cyclic Sort（Swap 大法）](https://github.com/wuhuachuan712/DS-Algorithm/issues/133)
 6. [Grok - 7. Pattern: In-place Reversal of a LinkedList](https://github.com/wuhuachuan712/DS-Algorithm/issues/134)
-7. [Grok - 8. Pattern: Tree Breadth First Search](https://github.com/wuhuachuan712/DS-Algorithm/issues/135)
+7. [Grok - 8. Pattern: Tree Breadth First Search(层次遍历)](https://github.com/wuhuachuan712/DS-Algorithm/issues/135)
 8. [Grok - 9. Pattern: Tree Depth First Search](https://github.com/wuhuachuan712/DS-Algorithm/issues/136)
 9. [[重点]Grok - 10. Pattern: Two Heaps](https://github.com/wuhuachuan712/DS-Algorithm/issues/137)
 10. [[重点:复杂度的分析]Grok - 11. Pattern: Subsets](https://github.com/wuhuachuan712/DS-Algorithm/issues/138)
