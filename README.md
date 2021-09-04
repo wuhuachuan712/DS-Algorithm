@@ -31,7 +31,7 @@
 7. [Grok - 8. Pattern: Tree Breadth First Search(层次遍历)](https://github.com/wuhuachuan712/DS-Algorithm/issues/135)
 8. [Grok - 9. Pattern: Tree Depth First Search](https://github.com/wuhuachuan712/DS-Algorithm/issues/136)
 9. [[重点]Grok - 10. Pattern: Two Heaps(中位数)](https://github.com/wuhuachuan712/DS-Algorithm/issues/137)
-10. [[重点:复杂度的分析]Grok - 11. Pattern: Subsets](https://github.com/wuhuachuan712/DS-Algorithm/issues/138)
+10. [[重点:注意时间空间复杂度的分析]11. Pattern: Subsets(回溯与BFS的两大类解题思想)](https://github.com/wuhuachuan712/DS-Algorithm/issues/138)
 11. [Grok - 12. Pattern: Modified Binary Search](https://github.com/wuhuachuan712/DS-Algorithm/issues/139)
 12. [Grok - 13. Pattern: Bitwise XOR](https://github.com/wuhuachuan712/DS-Algorithm/issues/140)
 13. [Grok - [重点]14. Pattern: Top 'K' Elements](https://github.com/wuhuachuan712/DS-Algorithm/issues/141)
