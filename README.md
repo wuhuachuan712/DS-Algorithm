@@ -34,10 +34,10 @@
 10. [[重点:注意时间空间复杂度的分析]11. Pattern: Subsets(回溯与BFS的两大类解题思想)](https://github.com/wuhuachuan712/DS-Algorithm/issues/138)
 11. [Grok - 12. Pattern: Modified Binary Search](https://github.com/wuhuachuan712/DS-Algorithm/issues/139)
 12. [Grok - 13. Pattern: Bitwise XOR](https://github.com/wuhuachuan712/DS-Algorithm/issues/140)
-13. [Grok - [重点]14. Pattern: Top 'K' Elements](https://github.com/wuhuachuan712/DS-Algorithm/issues/141)
+13. [[重点]Grok - 14. Pattern: Top 'K' Elements](https://github.com/wuhuachuan712/DS-Algorithm/issues/141)
 14. [Grok - 15. Pattern: K-way merge](https://github.com/wuhuachuan712/DS-Algorithm/issues/142)
-15. [Grok - [重点-有时间可以当做兴趣深入看一下]16. Pattern : 0/1 Knapsack (Dynamic Programming)](https://github.com/wuhuachuan712/DS-Algorithm/issues/143)
-16. [Grok - [重点-太多没有accept]17. Pattern: Topological Sort (Graph)](https://github.com/wuhuachuan712/DS-Algorithm/issues/144)
+15. [[重点-有时间可以当做兴趣深入看一下]Grok - 16. Pattern : 0/1 Knapsack (Dynamic Programming)](https://github.com/wuhuachuan712/DS-Algorithm/issues/143)
+16. [[重点-太多没有accept]Grok - 17. Pattern: Topological Sort (Graph)](https://github.com/wuhuachuan712/DS-Algorithm/issues/144)
 
 # 其他总结
 
