@@ -1,23 +1,3 @@
-# Grok 
-
-1. [Grok - 2. Pattern: Sliding Window(连续子数组)](https://github.com/wuhuachuan712/DS-Algorithm/issues/129)
-2. [Grok - 3. Pattern: Two Pointers](https://github.com/wuhuachuan712/DS-Algorithm/issues/130)
-3. [Grok - 4. Pattern: Fast & Slow pointers](https://github.com/wuhuachuan712/DS-Algorithm/issues/131)
-4. [[重点]Grok - 5. Pattern: Merge Intervals](https://github.com/wuhuachuan712/DS-Algorithm/issues/132)
-5. [Grok - 6. Pattern: Cyclic Sort(Swap大法)](https://github.com/wuhuachuan712/DS-Algorithm/issues/133)
-6. [Grok - 7. Pattern: In-place Reversal of a LinkedList](https://github.com/wuhuachuan712/DS-Algorithm/issues/134)
-7. [Grok - 8. Pattern: Tree Breadth First Search(层次遍历)](https://github.com/wuhuachuan712/DS-Algorithm/issues/135)
-8. [Grok - 9. Pattern: Tree Depth First Search](https://github.com/wuhuachuan712/DS-Algorithm/issues/136)
-9. [[重点]Grok - 10. Pattern: Two Heaps(中位数)](https://github.com/wuhuachuan712/DS-Algorithm/issues/137)
-10. [[重点:注意时间空间复杂度的分析]11. Pattern: Subsets(回溯与BFS的两大类解题思想)](https://github.com/wuhuachuan712/DS-Algorithm/issues/138)
-11. [Grok - 12. Pattern: Modified Binary Search](https://github.com/wuhuachuan712/DS-Algorithm/issues/139)
-12. [Grok - 13. Pattern: Bitwise XOR](https://github.com/wuhuachuan712/DS-Algorithm/issues/140)
-13. [[重点]Grok - 14. Pattern: Top 'K' Elements](https://github.com/wuhuachuan712/DS-Algorithm/issues/141)
-14. [Grok - 15. Pattern: K-way merge](https://github.com/wuhuachuan712/DS-Algorithm/issues/142)
-15. [[重点-有时间可以当做兴趣深入看一下]Grok - 16. Pattern : 0/1 Knapsack (Dynamic Programming)](https://github.com/wuhuachuan712/DS-Algorithm/issues/143)
-16. [[重点-太多没有accept]Grok - 17. Pattern: Topological Sort (Graph)](https://github.com/wuhuachuan712/DS-Algorithm/issues/144)
-
-
 # 数据结构类型
 
 1. [数组](https://github.com/wuhuachuan712/DS-Algorithm/issues/96)
@@ -39,6 +19,26 @@
     1. [0-1背包问题(暴力,top-down,bottom-up) ](https://github.com/wuhuachuan712/DS-Algorithm/issues/125)
     2. [0-1背包问题(O(C)空间复杂度优化)](https://github.com/wuhuachuan712/DS-Algorithm/issues/126)
 6. [KMP算法](https://github.com/wuhuachuan712/DS-Algorithm/issues/127)
+7. [Parentheses 括号问题](https://github.com/wuhuachuan712/DS-Algorithm/issues/145)
+
+# Grok 
+
+1. [Grok - 2. Pattern: Sliding Window(连续子数组)](https://github.com/wuhuachuan712/DS-Algorithm/issues/129)
+2. [Grok - 3. Pattern: Two Pointers](https://github.com/wuhuachuan712/DS-Algorithm/issues/130)
+3. [Grok - 4. Pattern: Fast & Slow pointers](https://github.com/wuhuachuan712/DS-Algorithm/issues/131)
+4. [[重点]Grok - 5. Pattern: Merge Intervals](https://github.com/wuhuachuan712/DS-Algorithm/issues/132)
+5. [Grok - 6. Pattern: Cyclic Sort(Swap大法)](https://github.com/wuhuachuan712/DS-Algorithm/issues/133)
+6. [Grok - 7. Pattern: In-place Reversal of a LinkedList](https://github.com/wuhuachuan712/DS-Algorithm/issues/134)
+7. [Grok - 8. Pattern: Tree Breadth First Search(层次遍历)](https://github.com/wuhuachuan712/DS-Algorithm/issues/135)
+8. [Grok - 9. Pattern: Tree Depth First Search](https://github.com/wuhuachuan712/DS-Algorithm/issues/136)
+9. [[重点]Grok - 10. Pattern: Two Heaps(中位数)](https://github.com/wuhuachuan712/DS-Algorithm/issues/137)
+10. [[重点:注意时间空间复杂度的分析]11. Pattern: Subsets(回溯与BFS的两大类解题思想)](https://github.com/wuhuachuan712/DS-Algorithm/issues/138)
+11. [Grok - 12. Pattern: Modified Binary Search](https://github.com/wuhuachuan712/DS-Algorithm/issues/139)
+12. [Grok - 13. Pattern: Bitwise XOR](https://github.com/wuhuachuan712/DS-Algorithm/issues/140)
+13. [[重点]Grok - 14. Pattern: Top 'K' Elements](https://github.com/wuhuachuan712/DS-Algorithm/issues/141)
+14. [Grok - 15. Pattern: K-way merge](https://github.com/wuhuachuan712/DS-Algorithm/issues/142)
+15. [[重点-有时间可以当做兴趣深入看一下]Grok - 16. Pattern : 0/1 Knapsack (Dynamic Programming)](https://github.com/wuhuachuan712/DS-Algorithm/issues/143)
+16. [[重点-太多没有accept]Grok - 17. Pattern: Topological Sort (Graph)](https://github.com/wuhuachuan712/DS-Algorithm/issues/144)
 
 # 其他总结
 
