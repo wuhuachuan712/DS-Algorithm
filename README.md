@@ -1,4 +1,4 @@
-# 数据结构类型
+# 数据结构
 
 1. [数组](https://github.com/wuhuachuan712/DS-Algorithm/issues/96)
 2. [链表](https://github.com/wuhuachuan712/DS-Algorithm/issues/101)
@@ -9,12 +9,20 @@
 7. Map
 8. String
 
-# 算法类型
+# 算法思想
 
-1. 动态规划([DP1：DP 基本概念](https://github.com/wuhuachuan712/DS-Algorithm/issues/97)，[DP2：题型总结](https://github.com/wuhuachuan712/DS-Algorithm/issues/104)) / 分治 / 贪心 / [回溯(排列组合问题)](https://github.com/wuhuachuan712/DS-Algorithm/issues/106)
-2. BFS / DFS
-3. 排序([拓扑排序-dfs与入度为0解法以及唯一性](https://github.com/wuhuachuan712/DS-Algorithm/issues/124))，查找
-4. [双指针](https://github.com/wuhuachuan712/DS-Algorithm/issues/105)，[滑窗法](https://github.com/wuhuachuan712/DS-Algorithm/issues/107)，[union find](https://github.com/wuhuachuan712/DS-Algorithm/issues/108)
+1. [DP1：DP 基本概念](https://github.com/wuhuachuan712/DS-Algorithm/issues/97)
+2. [DP2：题型总结](https://github.com/wuhuachuan712/DS-Algorithm/issues/104)
+3. 分治
+4. 贪心
+5. [回溯(排列组合问题)](https://github.com/wuhuachuan712/DS-Algorithm/issues/106)
+
+# 算法技巧
+
+1. [拓扑排序](https://github.com/wuhuachuan712/DS-Algorithm/issues/124)
+2. [双指针](https://github.com/wuhuachuan712/DS-Algorithm/issues/105)
+3. [滑窗法](https://github.com/wuhuachuan712/DS-Algorithm/issues/107)
+4. [union find](https://github.com/wuhuachuan712/DS-Algorithm/issues/108)
 5. 背包问题：
     1. [0-1背包问题(暴力,top-down,bottom-up) ](https://github.com/wuhuachuan712/DS-Algorithm/issues/125)
     2. [0-1背包问题(O(C)空间复杂度优化)](https://github.com/wuhuachuan712/DS-Algorithm/issues/126)
